@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Zimu Wang, an incoming M.Sc. student in Financial Mathematics and Statistics at City University of Hong Kong (2026-2027). I earned a B.Econ. in Actuarial Science from Hunan University in 2026.
+Hello! I am Zimu Wang, an M.Sc. student in Financial Mathematics and Statistics at City University of Hong Kong (2026-2027). I earned a B.Econ. in Actuarial Science from Hunan University in 2026.
 
 My interests sit at the intersection of statistical modeling, actuarial science, machine learning, and financial mathematics. My recent work includes spatial extreme-value modeling with graph neural networks, Bayesian insurance pricing, yield-curve forecasting, and applications of large language models.
 
